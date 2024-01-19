@@ -1,7 +1,7 @@
 histoire d'un troll :
 =====================
 
-<iframe src="https://giphy.com/embed/98pZs1ZVaWb1C" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/absurdnoise-troll-98pZs1ZVaWb1C">via GIPHY</a></p>
+<img src="https://giphy.com/embed/98pZs1ZVaWb1C" alt="toll" width="200"/>
 
 ## chapitre 1 : un jour 
 
