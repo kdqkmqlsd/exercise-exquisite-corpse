@@ -12,3 +12,7 @@ Au beau milieu d'une forêt mystérieuse, un troll nommé Marcus vivait seul dep
 
 
 Un beau jour, Marcus se leva comme chaque matin pour aller s'occuper de son bétail. Il découvrit un morceau de tissu rouge. Il n'avait jamais vu ce type de tissu, mais à qui pouvait-il bien appartenir ? Comment était-il possible qu'un tissu arrive dans son bétail ? Marcus y réfléchirait toute la journée.
+
+## chapitre 3 : la dinguerie
+
+Une ~~ fucking~~ **très étrange** nuit.
