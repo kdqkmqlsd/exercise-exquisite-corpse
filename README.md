@@ -15,5 +15,7 @@ Un beau jour, Marcus se leva comme chaque matin pour aller s'occuper de son bét
 
 ## chapitre 3 : la dinguerie
 
-Une ~~fucking~~ **très étrange** nuit, _Upingu découvre  une [color=#26B260]chaussette fluorescente[/color] , égarée par un explorateur maladroit. Intrigué, il l'enfile comme un *bonnet*.
+Une ~~fucking~~ **très étrange** nuit, _Upingu_ découvre  une \033[91mchaussette fluorescente\033[0m, égarée par un explorateur maladroit. Intrigué, il l'enfile comme un *bonnet*.
 _Le Zinzin_. 
+
+<img src="https://tenor.com/bbjKv.gif">
