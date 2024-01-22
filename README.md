@@ -30,6 +30,10 @@ Intrigué par la chaussette fluorescente, Marcus part à la recherche des noiset
 
 <img src="https://media1.giphy.com/media/SA6t92QkeS6oi0MTAt/giphy.gif?cid=ecf05e4775eadapiv8oeouutn5ewvlxe51lrqawluz6c71w9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+# chapitre 5 : le meurtre
 
+Alors que Marcus examinait le tissu rouge, un lapin violet géant apparut, trébucha sur une confiture, déclenchant une colère inattendue. Armé d'une cuillère en bois, Marcus se lança dans une poursuite folle à travers la forêt, transformant l'endroit paisible en scène de chaos délirante.
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fz_KoI0-y7rEAAAAC%2Fchaos.gif&f=1&nofb=1&ipt=4017abe13779c4e18840e9389bd343fc62196f99e0c53326a3874a80a0de682f&ipo=images" width="200"/>
 
 
