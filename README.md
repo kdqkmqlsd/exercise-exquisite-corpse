@@ -20,5 +20,16 @@ _Le Zinzin_.
 
 <img src="https://media.giphy.com/media/MGYntBcUWgYEaH2SHr/giphy.gif">
 
+# Chapitre 4 : La Quête Noisetée
+
+Intrigué par la chaussette fluorescente, Marcus part à la recherche des noisettes éparpillées dans la forêt, chaque noisette étant un indice. Sur son chemin, il rencontre des écureuils philosophes qui lui confient l'énigme des noisettes. Marcus s'engage dans cette quête, déterminé à percer le mystère lumineux.
+
+---
+
+*Restez connecté pour découvrir les secrets de la chaussette !* 🌲🔍
+
+<img src="https://media1.giphy.com/media/SA6t92QkeS6oi0MTAt/giphy.gif?cid=ecf05e4775eadapiv8oeouutn5ewvlxe51lrqawluz6c71w9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
 
 
